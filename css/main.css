@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  width: 100%;
+  padding: 0;
+}
+
+.my-card {
+  padding: 40px;
+  border-radius: 10px;
+  -webkit-box-shadow: -2px 20px 54px -17px #b8a4b8;
+  box-shadow: -2px 20px 54px -17px #b8a4b8;
+}
+
+.container {
+  max-width: 500px;
+  font-family: "Montserrat", sans-serif;
+}
+/*# sourceMappingURL=main.css.map */
